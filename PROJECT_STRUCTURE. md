@@ -1,0 +1,15 @@
+# Project Workflow
+
+Data Collection
+        ↓
+Data Preparation
+        ↓
+Train/Test Split
+        ↓
+Model Training
+        ↓
+Model Evaluation
+        ↓
+Best Model Selection
+        ↓
+Student Performance Prediction
